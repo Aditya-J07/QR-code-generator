@@ -6,7 +6,7 @@ This is a very small Python script that generates a QR code image from a URL.
 Install dependencies:
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirement.txt
 ```
 
 ## Usage
